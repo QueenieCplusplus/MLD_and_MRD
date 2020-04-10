@@ -19,11 +19,11 @@ MLD 為不對稱通訊協定，聆聽者 Listner 行為模式 (其他則有廣�
 
 # MLD format info in IP Header
 
-130 = query
+130 = query, 查詢聆聽者
 
-131 = report
+131 = report, 群組成員聆聽
 
-132 = done
+132 = done, 成員正在離開群組
 
     +------+------+---------+-------------------+----------+-------------------+
     | Type | Code | Checksum| Max Response Delay| Reserved | Multicast Address |
