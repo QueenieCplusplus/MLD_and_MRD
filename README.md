@@ -7,6 +7,6 @@ Multicast enable it to resolve these address of not only a single host, but also
 
 Instead of using Broadcast, which forces all the node in subnet to handle it address question.
 
-And Multicast makes a single group of hosts to handle its datagram. 
+And Multicast makes a single group of hosts to handle its datagram, in this way, save memory and cpu resource of other unrelated node to bypass this address resolution question. 
 
 # MRD
