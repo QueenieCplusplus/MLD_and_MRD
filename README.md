@@ -41,7 +41,7 @@ Server pushes data to the Router on left-side, user subscribe data which makes t
 # Comaparison with Unicast
 
 This way, buffering effects quality of service a lot.
-However this Unicast way apply to the status quo when your host or mobile is in a mobile place.
+However this Unicast way apply to the status quo when your host or mobile is in a mobile place, it keeps changing in IP and ISP.
 
 ![ping](https://www.techritual.com/wp-content/uploads/2016/08/unicast-e1471602066630.jpg)
 
