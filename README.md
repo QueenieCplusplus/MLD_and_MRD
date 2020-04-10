@@ -1,4 +1,12 @@
 # MLD_and_MRD
 Multicast, Multicast Listener Discovery, Multicast Router Discovery
 
-(to be continued...)
+# MLD
+
+Multicast enable it to resolve these address of not only a single host, but also a group of hosts.
+
+Instead of using Broadcast, which forces all the node in subnet to handle it address question.
+
+And Multicast makes a single group of hosts to handle its datagram. 
+
+# MRD
