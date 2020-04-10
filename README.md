@@ -37,6 +37,10 @@ Server pushes data to the Router on left-side, user subscribe data which makes t
     +------+------+---------+-------------------+----------+-------------------+
     |  130 |   0  |         |                   |          |                   |
     +------+------+---------+-------------------+----------+-------------------+
+    
+# Comaparison with Unicast
+
+![ping](https://www.techritual.com/wp-content/uploads/2016/08/unicast-e1471602066630.jpg)
 
 # Multicast Address Format
 
