@@ -21,6 +21,7 @@ MLD 為不對稱通訊協定，聆聽者 Listner 行為模式 (其他則有廣�
 
 路由發出 ff02::1 此多點位址至 link-local 的所有節點，任何一站接受到此查詢時，會回應報告並且啟動計時器（又稱時計），且預計在傳送回報前等待不確定的延遲時間，最大延遲時間將放入 Max Response Deley 此欄位，當節點收到回報的計時將會停止處理，避免對方重複回報，最後節點合併報告並且傳送終結 Done 給上述位址（ff02::1）。
 
+Server pushes data to the Router on left-side, user subscribe data which makes the router on right-side to do relationship with Router on left-side in Multi-cast schematics.
 
 ![push](https://www.techritual.com/wp-content/uploads/2016/08/multicast-e1471602018400.jpg)
 
