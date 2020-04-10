@@ -1,7 +1,7 @@
 # MLD_and_MRD
 Multicast, Multicast Listener Discovery, Multicast Router Discovery
 
-# MLD
+# MLD, Multicast Listener Discovery
 
 Multicast enable it to resolve these address of not only a single host, but also a group of hosts.
 
