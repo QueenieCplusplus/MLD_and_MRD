@@ -1,6 +1,8 @@
 # MLD_and_MRD
 Multicast, Multicast Listener Discovery, Multicast Router Discovery
 
+為確保路由效率，多點傳送群組管理允許了多點傳送聆聽者註冊多點傳送位址的通訊協定。
+
 # MLD, Multicast Listener Discovery
 
 (Source-Specific Multicast)
