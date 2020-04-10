@@ -31,6 +31,16 @@ MLD 為不對稱通訊協定，聆聽者 Listner 行為模式 (其他則有廣�
     |  130 |      |         |                   |          |                   |
     +------+------+---------+-------------------+----------+-------------------+
 
+# Multicast Address Format
+
+prefix : ff
+
+link-local : ff02
+
+site-local : ff05
+
+global : ff0e
+
 # MRD
 
 (to be continued...)
